@@ -39,15 +39,15 @@ The Basic Calculator program offers the following features:
 - This program serves as a simple example of a calculator and may not handle more complex scenarios or operations.
 - The specific commands and syntax used in the BASIC code may vary based on the version of BASIC you're using.
 
+## License
+
+This project is released under the terms of the **Unlicense**, which allows you to use, modify, and distribute the code as you see fit. The Unlicense removes traditional copyright restrictions, giving you the freedom to use the code in any way you choose.
+
+For more details, see the [LICENSE](LICENSE) file in this repository.
+
 ## Credits
 
 **Author:** Scott Grivner <br>
 **Email:** scott.grivner@gmail.com <br>
 **Website:** [scottgrivner.dev](https://www.scottgriv.dev) <br>
 **Reference:** [Main Branch](https://github.com/scottgriv/vue-binary_converter) <br>
-
-## License
-
-This project is released under the terms of the [Unlicense](LICENSE), which allows you to use, modify, and distribute the code as you see fit. The Unlicense removes traditional copyright restrictions, giving you the freedom to use the code in any way you choose.
-
-For more details, see the [Unlicense](LICENSE) file in this repository.
