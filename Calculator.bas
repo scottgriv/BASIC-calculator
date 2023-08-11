@@ -1,0 +1,24 @@
+10 PRINT "BASIC CALCULATOR"
+20 PRINT "1. Addition"
+30 PRINT "2. Subtraction"
+40 PRINT "3. Multiplication"
+50 PRINT "4. Division"
+60 PRINT "5. Exit"
+70 INPUT "Select an option: "; OPTION
+80 IF OPTION = 5 THEN END
+90 INPUT "Enter first number: "; NUM1
+100 INPUT "Enter second number: "; NUM2
+
+110 IF OPTION = 1 THEN RESULT = NUM1 + NUM2
+120 IF OPTION = 2 THEN RESULT = NUM1 - NUM2
+130 IF OPTION = 3 THEN RESULT = NUM1 * NUM2
+140 IF OPTION = 4 THEN
+150     IF NUM2 = 0 THEN PRINT "Error: Division by zero"
+160     IF NUM2 <> 0 THEN RESULT = NUM1 / NUM2
+170 END IF
+
+180 IF OPTION >= 1 AND OPTION <= 4 THEN
+190     PRINT "Result: "; RESULT
+200 END IF
+
+210 GOTO 20
