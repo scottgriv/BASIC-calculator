@@ -50,4 +50,4 @@ For more details, see the [LICENSE](LICENSE) file in this repository.
 **Author:** Scott Grivner <br>
 **Email:** scott.grivner@gmail.com <br>
 **Website:** [scottgrivner.dev](https://www.scottgriv.dev) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/vue-binary_converter) <br>
+**Reference:** [Main Branch](https://github.com/scottgriv/basic-calculator) <br>
